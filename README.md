@@ -33,7 +33,7 @@ To run this project, you need the following installed on your system:
 
 2. Change into the project directory:
    ```bash
-   cd your-flask-project
+   cd gh-actions-flask
    ```
    
 3. Create and activate a virtual environment:
